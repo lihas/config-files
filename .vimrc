@@ -28,3 +28,6 @@ endfunction
 set cscoperelative cscopeverbose
 "unmap <C-C>
 map <C-C> :call LoadCscope() <CR>
+
+"set highlight search on
+set hlsearch
